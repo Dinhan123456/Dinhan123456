@@ -57,9 +57,9 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinhan1…ons=true&theme=radical&count_private=true&cache_seconds=1800)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinhan123456&show_icons=true&theme=radical&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usern…=compact&theme=radical&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhan123456&layout=compact&theme=radical&count_private=true)
 
 ---
 
